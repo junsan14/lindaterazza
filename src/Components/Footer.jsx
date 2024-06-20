@@ -1,8 +1,6 @@
 
-export default function Footer(){
-    return(
-        <footer className="footer">
-            &copy; Lindaterraza 
-        </footer>
-    )
+export default function(){
+    <footer className="footer">
+        &copy; Lindaterazza
+    </footer>
 }
