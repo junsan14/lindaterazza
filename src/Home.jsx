@@ -201,11 +201,11 @@ export default function Home(){
                             <dt>営業時間</dt>
                             <dd>12:00-17:00</dd>
                             <dt>定休日</dt>
-                            <dd>月曜日</dd>
+                            <dd>月/ 火/ 水</dd>
                             <dt>電話番号</dt>
                             <dd><a href="tel:090-8693-8119">090-8693-8119</a></dd>
                             <dt>FAX</dt>
-                            <dd>090-8693-811</dd>
+                            <dd>089-900-0657</dd>
                             <dt>備考</dt>
                             <dd>※お越しの際はご連絡ください</dd>
                         </dl>
