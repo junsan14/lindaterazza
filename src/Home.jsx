@@ -207,7 +207,10 @@ export default function Home(){
                             <dt>FAX</dt>
                             <dd>089-900-0657</dd>
                             <dt>備考</dt>
-                            <dd>※お越しの際はご連絡ください</dd>
+                            <dd>お越しの際はお気軽にご連絡下さい。<br/>
+								(営業日でもご予約が無い時はオリーブ畑の方へ行く場合もありますので) <br/>
+								宜しくお願い致します。
+							</dd>
                         </dl>
               
                         <img className='access_content_item_desc_img' src={access} />
